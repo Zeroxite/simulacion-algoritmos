@@ -1,0 +1,10 @@
+C:\Users\0tsun\source\repos\[simulacion algoritmos\Simulador_Algoritmos\obj\Debug\Simulador_Algoritmos.csproj.AssemblyReference.cache
+C:\Users\0tsun\source\repos\[simulacion algoritmos\Simulador_Algoritmos\obj\Debug\Simulador_Algoritmos.Form1.resources
+C:\Users\0tsun\source\repos\[simulacion algoritmos\Simulador_Algoritmos\obj\Debug\Simulador_Algoritmos.Properties.Resources.resources
+C:\Users\0tsun\source\repos\[simulacion algoritmos\Simulador_Algoritmos\obj\Debug\Simulador_Algoritmos.csproj.GenerateResource.cache
+C:\Users\0tsun\source\repos\[simulacion algoritmos\Simulador_Algoritmos\obj\Debug\Simulador_Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\0tsun\source\repos\[simulacion algoritmos\Simulador_Algoritmos\bin\Debug\Simulador_Algoritmos.exe.config
+C:\Users\0tsun\source\repos\[simulacion algoritmos\Simulador_Algoritmos\bin\Debug\Simulador_Algoritmos.exe
+C:\Users\0tsun\source\repos\[simulacion algoritmos\Simulador_Algoritmos\bin\Debug\Simulador_Algoritmos.pdb
+C:\Users\0tsun\source\repos\[simulacion algoritmos\Simulador_Algoritmos\obj\Debug\Simulador_Algoritmos.exe
+C:\Users\0tsun\source\repos\[simulacion algoritmos\Simulador_Algoritmos\obj\Debug\Simulador_Algoritmos.pdb

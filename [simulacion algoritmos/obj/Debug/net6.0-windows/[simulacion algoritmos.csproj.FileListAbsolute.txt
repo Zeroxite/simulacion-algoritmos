@@ -1,0 +1,16 @@
+C:\Users\0tsun\source\repos\[simulacion algoritmos\[simulacion algoritmos\bin\Debug\net6.0-windows\[simulacion algoritmos.exe
+C:\Users\0tsun\source\repos\[simulacion algoritmos\[simulacion algoritmos\bin\Debug\net6.0-windows\[simulacion algoritmos.deps.json
+C:\Users\0tsun\source\repos\[simulacion algoritmos\[simulacion algoritmos\bin\Debug\net6.0-windows\[simulacion algoritmos.runtimeconfig.json
+C:\Users\0tsun\source\repos\[simulacion algoritmos\[simulacion algoritmos\bin\Debug\net6.0-windows\[simulacion algoritmos.dll
+C:\Users\0tsun\source\repos\[simulacion algoritmos\[simulacion algoritmos\bin\Debug\net6.0-windows\[simulacion algoritmos.pdb
+C:\Users\0tsun\source\repos\[simulacion algoritmos\[simulacion algoritmos\obj\Debug\net6.0-windows\_simulacion_algoritmos.Form1.resources
+C:\Users\0tsun\source\repos\[simulacion algoritmos\[simulacion algoritmos\obj\Debug\net6.0-windows\[simulacion algoritmos.csproj.GenerateResource.cache
+C:\Users\0tsun\source\repos\[simulacion algoritmos\[simulacion algoritmos\obj\Debug\net6.0-windows\[simulacion algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0tsun\source\repos\[simulacion algoritmos\[simulacion algoritmos\obj\Debug\net6.0-windows\[simulacion algoritmos.AssemblyInfoInputs.cache
+C:\Users\0tsun\source\repos\[simulacion algoritmos\[simulacion algoritmos\obj\Debug\net6.0-windows\[simulacion algoritmos.AssemblyInfo.cs
+C:\Users\0tsun\source\repos\[simulacion algoritmos\[simulacion algoritmos\obj\Debug\net6.0-windows\[simulacion algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\0tsun\source\repos\[simulacion algoritmos\[simulacion algoritmos\obj\Debug\net6.0-windows\[simulacion algoritmos.dll
+C:\Users\0tsun\source\repos\[simulacion algoritmos\[simulacion algoritmos\obj\Debug\net6.0-windows\refint\[simulacion algoritmos.dll
+C:\Users\0tsun\source\repos\[simulacion algoritmos\[simulacion algoritmos\obj\Debug\net6.0-windows\[simulacion algoritmos.pdb
+C:\Users\0tsun\source\repos\[simulacion algoritmos\[simulacion algoritmos\obj\Debug\net6.0-windows\[simulacion algoritmos.genruntimeconfig.cache
+C:\Users\0tsun\source\repos\[simulacion algoritmos\[simulacion algoritmos\obj\Debug\net6.0-windows\ref\[simulacion algoritmos.dll

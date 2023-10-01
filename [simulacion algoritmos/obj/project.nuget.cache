@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "PvciRZOb/7w0fxMCcetf1A59Qv/10whCNBHT/iVXZ57yFK2BzGbQbomklzlSafRNdAQFJ5TjoxinxTsLE5bCSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\0tsun\\source\\repos\\[simulacion algoritmos\\[simulacion algoritmos\\[simulacion algoritmos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\0tsun\\.nuget\\packages\\microcharts\\0.9.5.9\\microcharts.0.9.5.9.nupkg.sha512",
+    "C:\\Users\\0tsun\\.nuget\\packages\\microcharts.forms\\0.9.5.9\\microcharts.forms.0.9.5.9.nupkg.sha512",
+    "C:\\Users\\0tsun\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
+    "C:\\Users\\0tsun\\.nuget\\packages\\skiasharp.views.forms\\2.80.2\\skiasharp.views.forms.2.80.2.nupkg.sha512",
+    "C:\\Users\\0tsun\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\0tsun\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\0tsun\\.nuget\\packages\\xamarin.forms\\4.7.0.1351\\xamarin.forms.4.7.0.1351.nupkg.sha512"
+  ],
+  "logs": []
+}
