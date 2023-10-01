@@ -44,7 +44,7 @@ namespace _simulacion_algoritmos.Controllers
                         break;
                  };
              stopwatch.Stop();
-             return new ResponseModel() { Algorithm = algorithm, Time = stopwatch.ElapsedMilliseconds  };            
+             return new ResponseModel() { Algorithm = algorithm, Time = stopwatch.ElapsedTicks  };            
         }
     }
 }

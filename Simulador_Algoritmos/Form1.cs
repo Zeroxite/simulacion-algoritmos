@@ -30,11 +30,11 @@ namespace Simulador_Algoritmos
                 Task<ResponseModel> coso;
                 if (algorith == Algorithm.BinarySearch)
                 {
-                    coso = new Task<ResponseModel>(() => new MasterController(array.OrderBy(x => x).ToArray(), 800).GetResponse(algorith));
+                    coso = new Task<ResponseModel>(() => new MasterController(array.OrderBy(x => x).ToArray(), 1829).GetResponse(algorith));
                 }
                 else
                 {
-                    coso = new Task<ResponseModel>(() => new MasterController(array, 800).GetResponse(algorith));
+                    coso = new Task<ResponseModel>(() => new MasterController(array, 1272).GetResponse(algorith));
                 }
                 responseModelTaks.Add(coso);
                 coso.Start();
@@ -49,7 +49,7 @@ namespace Simulador_Algoritmos
                 responseModel.Add(response.Result);
             }
             chart1.Series.Clear();
-            Series serie = chart1.Series.Add("MiSerie");
+            Series serie = chart1.Series.Add("Tiempo transcurrido");
 
             foreach (ResponseModel item in responseModel)
             {
@@ -60,10 +60,11 @@ namespace Simulador_Algoritmos
 
             // Configurar el tipo de gráfico (por ejemplo, de barras)
             serie.ChartType = SeriesChartType.Bar;
+            serie.IsValueShownAsLabel = true;
 
             // Puedes personalizar el gráfico más según tus necesidades
             chart1.ChartAreas[0].AxisX.Title = "Algoritmo";
-            chart1.ChartAreas[0].AxisY.Title = "Ms";
+            chart1.ChartAreas[0].AxisY.Title = "Ticks";
         }
 
         private void label1_Click(object sender, EventArgs e)
